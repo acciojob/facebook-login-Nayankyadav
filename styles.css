@@ -27,9 +27,9 @@
             box-shadow: 0 0 10px #ccc;
             gap: 10px;
         }
-form{
-	background-color:rgb(255, 255, 255);
-}
+		.right-form{
+			background-color:rgb(255, 255, 255);
+		}
 
         input {
             border: 1px solid #ccc;
